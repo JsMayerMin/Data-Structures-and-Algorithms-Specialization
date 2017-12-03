@@ -1,2 +1,2 @@
-# DataStructure-Algorithms
-Data Structure And Algorithms Java examples And Cousera Assignments
+# Data Structures and Algorithms Specialization
+Data Structures and Algorithms Specialization in Cousera private workspace
