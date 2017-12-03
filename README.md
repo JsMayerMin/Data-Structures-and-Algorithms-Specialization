@@ -1,2 +1,2 @@
 # DataStructure-Algorithms
-Data Structure And Algorithms Java examples
+Data Structure And Algorithms Java examples And Cousera Assignments
